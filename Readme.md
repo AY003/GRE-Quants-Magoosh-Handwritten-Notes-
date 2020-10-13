@@ -11,4 +11,4 @@ and after I give my GRE on 6th Nov 2020 one can mail in case you are not able to
 or stuck in a GRE quants question, I'll be happy to answer your queries in way: 
 1) In which you understand that particular problem solution.
 2) Underlying fundamental concept that you were missing from that chapter.(will put the refrence of page no from the notes that one can refer) 
-3) Will give you a bonus similar example question related to it, to solidify the understand of the concept.
+3) Will give you a bonus similar example question related to it, to solidify the understanding of the concept.
